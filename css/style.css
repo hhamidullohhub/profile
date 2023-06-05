@@ -44,9 +44,11 @@ h1 {
     margin-left: 430px;
     text-align: center;
     width: 220px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .icons {
-    
+    margin-top: 20px;
     margin-left: 520px;
+    justify-content: space-between;
 }
