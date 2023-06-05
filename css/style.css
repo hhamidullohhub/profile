@@ -40,8 +40,13 @@ a {
 }
 
 h1 {
-    
+    margin-top: 50px;
     margin-left: 430px;
     text-align: center;
     width: 220px;
+}
+
+.icons {
+    
+    margin-left: 520px;
 }
