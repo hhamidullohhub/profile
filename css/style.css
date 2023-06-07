@@ -98,7 +98,7 @@ a {
 @media (max-width: 440px) {
     .container {
         width: 240px;
-        background-color: green;
+        /* background-color: green; */
     }
 }
 
