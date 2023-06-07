@@ -109,11 +109,15 @@ a {
     }
 
     .profile {
+        margin-top: -100px;
         margin-right: 2000px;
     }
 }
 
-
+.profile {
+    margin-top: -100px;
+    border: 2px solid red;
+}
 
 .my-img {
     width: 200px;
