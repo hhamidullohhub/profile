@@ -25,7 +25,7 @@ a {
 @media (max-width: 1160px) {
     .container {
         width: 1040px;
-        background-color: red;
+        /* background-color: red; */
     }
 }
 
