@@ -83,6 +83,10 @@ a {
     h1 {
         font-size: 20px;
     }
+
+    .my-img {
+        
+    }
 }
 
 @media (max-width: 540px) {
