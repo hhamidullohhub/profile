@@ -146,6 +146,14 @@ h1 {
 .icons a {
     width: 50px;
     text-align: center; 
+}
+
+i {
     animation-duration: 2;
     animation-name: icon;
+    animation-iteration-count: infinite;
+}
+
+.icon {
+    transform: translate(1.2);
 }
