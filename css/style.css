@@ -133,7 +133,7 @@ h1 {
 
 .icons {
     display: flex;
-    width: 150px;
+    width: 200px;
     margin-top: 20px;
     margin-left: 455px;
     justify-content: space-between;
@@ -150,7 +150,7 @@ h1 {
 }
 
 .icons i {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .icons a {
