@@ -122,9 +122,9 @@ h1 {
 
 .icons {
     display: flex;
-    width: 50px;
+    width: 150px;
     margin-top: 20px;
-    margin-left: 520px;
+    margin-left: 470px;
     justify-content: space-between;
 }
 
@@ -133,5 +133,6 @@ h1 {
 }
 
 .icons a {
+    width: 50px;
     text-align: center;
 }
