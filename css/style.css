@@ -41,6 +41,7 @@ a {
     .container {
         width: 840px;
         background-color: aqua;
+        margin-left: -200px;
     }
 }
 
@@ -93,7 +94,7 @@ a {
     }
 
     .profile {
-        margin-left: -200px;
+        margin-right: 2000px;
     }
 }
 
