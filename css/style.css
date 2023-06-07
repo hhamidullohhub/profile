@@ -91,7 +91,7 @@ a {
 @media (max-width: 540px) {
     .container {
         width: 340px;
-        background-color: red;
+        /* background-color: red; */
     }
 }
 
