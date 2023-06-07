@@ -145,5 +145,7 @@ h1 {
 
 .icons a {
     width: 50px;
-    text-align: center;
+    text-align: center; 
+    animation-duration: 2;
+    animation-name: icon;
 }
