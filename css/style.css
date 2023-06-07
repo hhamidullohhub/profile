@@ -51,7 +51,7 @@ a {
 @media (max-width: 940px) {
     .container {
         width: 740px;
-        background-color: blue;
+        /* background-color: blue; */
     }
 }
 
