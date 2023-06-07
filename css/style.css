@@ -35,6 +35,10 @@ a {
         width: 940px;
         background-color: green;
     }
+    
+    .profile {
+
+    }
 }
 
 @media (max-width: 1040px) {
