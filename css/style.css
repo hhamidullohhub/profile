@@ -65,7 +65,7 @@ a {
 @media (max-width: 740px) {
     .container {
         width: 540px;
-        background-color: pink;
+        /* background-color: pink; */
     }
 
     .profile {
