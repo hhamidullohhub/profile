@@ -133,7 +133,7 @@ h1 {
 
 .icons {
     display: flex;
-    width: 150px;
+    width: 200px;
     margin-top: 20px;
     margin-left: 470px;
     justify-content: space-between;
@@ -146,6 +146,10 @@ h1 {
 .insta-icon {
     color: rgb(131, 15, 15);
     font-size: 20px;
+}
+
+.icons i {
+    margin-left: 10px;
 }
 
 .icons a {
