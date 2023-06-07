@@ -8,6 +8,10 @@ ol,ul {
     list-style: none;
 }
 
+body {
+    
+}
+
 a {
     text-decoration: none;
     display: inline-block;
