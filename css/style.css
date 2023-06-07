@@ -68,6 +68,10 @@ a {
         width: 540px;
         background-color: pink;
     }
+
+    .profile {
+        
+    }
 }
 
 @media (max-width: 640px) {
