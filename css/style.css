@@ -58,7 +58,7 @@ a {
 @media (max-width: 840px) {
     .container {
         width: 640px;
-        background-color: coral;
+        /* background-color: coral; */
     }
 }
 
