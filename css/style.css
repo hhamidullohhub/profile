@@ -48,6 +48,8 @@ h1 {
 }
 
 .icons {
+    display: flex;
+    width: 50px;
     margin-top: 20px;
     margin-left: 520px;
     justify-content: space-between;
