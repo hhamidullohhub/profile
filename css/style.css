@@ -32,7 +32,7 @@ a {
 @media (max-width: 1140px) {
     .container {
         width: 940px;
-        background-color: green;
+        /* background-color: green; */
     }
 
     .profile {
