@@ -35,9 +35,9 @@ a {
         width: 940px;
         background-color: green;
     }
-    
-    .profile {
 
+    .profile {
+        margin-left: -100px;
     }
 }
 
