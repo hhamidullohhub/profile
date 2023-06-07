@@ -43,7 +43,7 @@ a {
 @media (max-width: 1040px) {
     .container {
         width: 840px;
-        background-color: aqua;
+        /* background-color: aqua; */
         margin-left: -200px;
     }
 }
