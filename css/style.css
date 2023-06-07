@@ -76,7 +76,7 @@ a {
 @media (max-width: 640px) {
     .container {
         width: 440px;
-        background-color: purple;
+        /* background-color: purple;     */
     }
 
     h1 {
