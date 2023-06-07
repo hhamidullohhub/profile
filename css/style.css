@@ -79,6 +79,10 @@ a {
         width: 440px;
         background-color: purple;
     }
+
+    h1 {
+        font-size: 20px;
+    }
 }
 
 @media (max-width: 540px) {
