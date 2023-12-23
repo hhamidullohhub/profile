@@ -4,13 +4,16 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgba(37, 26, 189, 0.984);
+}
+
 .container {
+    font-family: sans-serif;
     width: 100%;
     max-width: 1180px;
     margin: 0 auto;
     max-height: 100vh;
-    border: 1px solid red;
-    font-family: sans-serif;
 }
 
 .links {
@@ -22,11 +25,11 @@
     text-align: center;
     flex-wrap: wrap;
     padding: 20px;
-    border: 1px solid green;
 }
 
 h2 {
     padding: 10px 0;
+    color: white;
 }
 
 a {
@@ -47,94 +50,4 @@ img {
     max-width: 500px;
     margin: auto;
     text-align: center;
-    border: 1px solid red;
 }
-
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-ol,ul {
-    list-style: none;
-}
-
-body {
-    background-color: rgb(5, 27, 55);
-}
-
-a {
-    text-decoration: none;
-    display: inline-block;
-}
-
-.container {
-    width: 100%;
-    max-width: 1140px;
-    margin: 0 auto;
-    padding: 0px 20px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.profile {
-    margin-top: -100px;
-}
-
-.my-img {
-    width: 200px;
-    border-radius: 50%;
-    margin-left: 440px;
-    margin-top: 200px;
-}
-
-h1 {
-    color: white;
-    margin-top: 50px;
-    margin-left: 430px;
-    text-align: center;
-    width: 220px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.icons {
-    display: flex;
-    width: 200px;
-    margin-top: 20px;
-    margin-left: 455px;
-    justify-content: space-between;
-}
-
-
-.telegram {
-    font-size: 20px;
-}
-
-.insta-icon {
-    color: rgb(131, 15, 15);
-    font-size: 20px;
-}
-
-.icons i {
-    margin-left: 20px;
-}
-
-.icons a {
-    width: 50px;
-    text-align: center; 
-}
-
-i {
-    animation-duration: 2;
-    animation-name: icon;
-    animation-iteration-count: infinite;
-}
-
-.icon {
-    transform: translate(1.2);
-}
-
-.pro {
-    width: 500px;
-} */
