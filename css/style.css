@@ -4,6 +4,55 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    max-height: 100vh;
+    border: 1px solid red;
+}
+
+.links {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    border: 1px solid green;
+}
+
+h2 {
+    padding: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.all {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid red;
+}
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 ol,ul {
     list-style: none;
 }
@@ -18,100 +67,12 @@ a {
 }
 
 .container {
-    width: 1140px;
+    width: 100%;
+    max-width: 1140px;
     margin: 0 auto;
-}
-
-@media (max-width: 1160px) {
-    .container {
-        width: 1040px;
-        /* background-color: red; */
-    }
-}
-
-@media (max-width: 1140px) {
-    .container {
-        width: 940px;
-        /* background-color: green; */
-    }
-
-    .profile {
-        margin-left: -100px;
-    }
-}
-
-@media (max-width: 1040px) {
-    .container {
-        width: 840px;
-        /* background-color: aqua; */
-        margin-left: -200px;
-    }
-}
-
-@media (max-width: 940px) {
-    .container {
-        width: 740px;
-        /* background-color: blue; */
-    }
-}
-
-@media (max-width: 840px) {
-    .container {
-        width: 640px;
-        /* background-color: coral; */
-    }
-}
-
-@media (max-width: 740px) {
-    .container {
-        width: 540px;
-        /* background-color: pink; */
-    }
-
-    .profile {
-        margin-left: -160px;
-    }
-}
-
-@media (max-width: 640px) {
-    .container {
-        width: 440px;
-        /* background-color: purple;     */
-    }
-
-    h1 {
-        font-size: 20px;
-    }
-
-    .my-img {
-        
-    }
-}
-
-@media (max-width: 540px) {
-    .container {
-        width: 340px;
-        /* background-color: red; */
-    }
-}
-
-@media (max-width: 440px) {
-    .container {
-        width: 240px;
-        /* background-color: green; */
-    }
-}
-
-@media (max-width: 340px) {
-    .container {
-        width: 140px;
-        /* background-color: aqua; */
-    }
-
-    .profile {
-        margin-top: -100px;
-        margin-right: 2000px;
-    }
+    padding: 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .profile {
@@ -173,4 +134,4 @@ i {
 
 .pro {
     width: 500px;
-}
+} */
